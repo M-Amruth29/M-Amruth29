@@ -71,20 +71,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-  <img
-    src="https://github-contributions-api.deno.dev/M-Amruth29.svg"
-    width="100%"
-    alt="Amruth's GitHub Contribution Graph"
-  />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <!-- Replace these examples with links to your actual repositories. -->
