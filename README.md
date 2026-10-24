@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Amruth!
+# 👋 Hey, I'm Amruth Sanil
 
 ### 💻 Computer Science Engineering Student | Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+%7C+Java+%7C+C;Exploring+Machine+Learning;Building+with+Arduino+%26+IoT;Turning+Ideas+Into+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+%7C+Java+%7C+C;Exploring+Machine+Learning;Building+with+Arduino;Turning+Ideas+Into+Projects" alt="Typing SVG" />
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 ## ⚡ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Programming Languages
 
