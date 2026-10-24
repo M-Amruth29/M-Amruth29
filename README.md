@@ -73,10 +73,22 @@
 
 ## 📈 Contribution Graph
 
+<h2 align="center">
+  <img src="https://img.shields.io/badge/📈-Contribution%20Graph-8B5CF6?style=for-the-badge" alt="Contribution Graph"/>
+</h2>
+
 <div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=M-Amruth29&bg_color=0d1117&color=c084fc&line=22c55e&point=f97316&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Amruth29&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution activity graph"/>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Keep%20Coding-22C55E?style=flat-square" alt="Keep Coding"/>
+  <img src="https://img.shields.io/badge/Keep%20Building-8B5CF6?style=flat-square" alt="Keep Building"/>
+  <img src="https://img.shields.io/badge/Never%20Stop%20Learning-F97316?style=flat-square" alt="Never Stop Learning"/>
 </div>
 
 ---
