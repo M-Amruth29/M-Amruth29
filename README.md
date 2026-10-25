@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:8B5CF6&height=4&section=header&reversal=false" width="100%" alt="Cyan to violet neon header border" />
+</div>
+
+<div align="center">
 
 # 👋 Hey, I'm Amruth Sanil
 
@@ -131,8 +135,11 @@ Practice Python, Java, C and problem-solving.
 </a>
 
 <br/><br/>
+ <sub>⚡ LEARN • BUILD • CREATE ⚡</sub>
+</div>
 
-
-*Learning • Building • Improving*
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:8B5CF6&height=4&section=footer&reversal=false" width="100%" alt="Cyan to violet neon footer border" />
+  <br/>
+ 
 </div>
