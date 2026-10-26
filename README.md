@@ -31,7 +31,7 @@
 - 🤖 Interested in Machine Learning and Artificial Intelligence.
 - 🌐 Learning web development with HTML and CSS.
 - 🗄️ Studying SQL and Database Management Systems.
-- 🚀 Focused on learning by building practical projects.
+-  Focused on learning by building practical projects.
 
 ---
 
@@ -56,6 +56,27 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools"/>
 
 </div>
+
+---
+
+##   Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 Credit Card Fraud using Transformer</h3>
+      <p>A Transformer-based machine learning project focused on credit card fraud detection, with the model implemented from scratch.</p>
+      <p><strong>Focus :</strong> Python | Machine Learning | Transformers</p>
+      <a href="https://github.com/M-Amruth29/credit_card_fraud_transformer">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 To-Do List App</h3>
+      <p>A task management application designed to help users organize and keep track of their tasks.</p>
+      <p><strong>Focus :</strong> Application Development</p>
+      <a href="https://github.com/M-Amruth29/To-Do-List-App">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -121,7 +142,6 @@ Practice Python, Java, C and problem-solving.
 - [ ] Build practical Machine Learning projects.
 - [ ] Develop useful Arduino applications.
 - [ ] Improve programming and problem-solving skills.
-- [ ] Document projects with clear README files.
 - [ ] Explore open-source development.
 
 ---
@@ -131,11 +151,15 @@ Practice Python, Java, C and problem-solving.
 <div align="center">
 
 <a href="https://github.com/M-Amruth29">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/amruth-sanil/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
- <sub>⚡ LEARN • BUILD • CREATE ⚡</sub>
+<sub>⚡ LEARN • BUILD • CREATE ⚡</sub>
 </div>
 
 <div align="center">
