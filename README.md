@@ -159,7 +159,6 @@ Practice Python, Java, C and problem-solving.
 </a>
 
 <br/><br/>
-<sub>⚡ LEARN • BUILD • CREATE ⚡</sub>
 </div>
 
 <div align="center">
